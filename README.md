@@ -1,4 +1,12 @@
 # Cyber-Attacker03
-git clone https://github.com/nicoleus/Cyber-Attacker03
-cd Cyber-Attacker03
-sh CyberTools03.sh
+$ apt update--apt update
+
+$ pkg install git
+
+$ pkg install python2
+
+$ git clone https://github.com/nicoleus/Cyber-Attacker03
+
+$ cd Cyber-Attacker03
+
+$ sh CyberTools03.sh
